@@ -1,4 +1,7 @@
 # vuetify-query-builder
+### Sample example of a condition builder in vuetify
+
+>Take it as a reference for making your own ,you can use https://www.npmjs.com/package/expr-eval for executing the conditions
 
 ## Project setup
 ```
