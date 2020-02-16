@@ -1,6 +1,6 @@
 <template>
-<v-card class="rule-container d-flex flex-column pa-2" flat>
-    <v-card class="rule-field d-flex flex-row pa-2" outlined tile>
+<v-card class="rule-container d-flex flex-column pb-2" flat>
+    <v-card class="rule-field d-flex flex-row pl-4" outlined tile>
         <v-card class="rule-filter pa-2" flat>
             <v-select v-model="variableSelected" :name="variables" :items="variables" @change="chooseVariable"></v-select>
         </v-card>

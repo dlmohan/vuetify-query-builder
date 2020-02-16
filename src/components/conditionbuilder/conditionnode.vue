@@ -47,8 +47,8 @@
                     <span>Delete</span>
                 </v-tooltip>
             </v-card>
-            <v-card class="group-body pa-2" outlined tile>
-                <v-card class="rule-list pa-2" flat>
+            <v-card class="group-body pb-1" outlined tile>
+                <v-card class="rule-list pb-1" flat>
                     <conditionnode :ruleset="rule.condition" 
                      @add-group="addGroup" @remove-group="removeGroup" @add-single-condition="addSingleCondition" @remove-single-condition="removeSingleCondition" @clause-changed="clauseChanged"/>
                 </v-card>
