@@ -59,7 +59,7 @@ export default {
                     "datatype": "number"
                 },
                 {
-                    "name": "dob",
+                    "name": "house_buying_date",
                     "datatype": "date"
                 }
             ],
