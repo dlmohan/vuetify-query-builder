@@ -3,6 +3,11 @@
 
 >Take it as a reference for making your own ,you can use https://www.npmjs.com/package/expr-eval for executing the conditions
 
+![condition_builder_input](src/assets/condition_builder_input.png)
+
+![condition_builder](src/assets/condition_builder.png)
+
+
 ## Project setup
 ```
 npm install
